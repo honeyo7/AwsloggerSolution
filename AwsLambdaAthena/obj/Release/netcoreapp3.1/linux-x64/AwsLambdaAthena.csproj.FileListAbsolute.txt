@@ -1,0 +1,12 @@
+D:\AWS C#\AwsLambdaAthena\obj\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.csprojAssemblyReference.cache
+D:\AWS C#\AwsLambdaAthena\obj\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.AssemblyInfoInputs.cache
+D:\AWS C#\AwsLambdaAthena\obj\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.AssemblyInfo.cs
+D:\AWS C#\AwsLambdaAthena\obj\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.csproj.CoreCompileInputs.cache
+D:\AWS C#\AwsLambdaAthena\bin\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.deps.json
+D:\AWS C#\AwsLambdaAthena\bin\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.runtimeconfig.json
+D:\AWS C#\AwsLambdaAthena\bin\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.runtimeconfig.dev.json
+D:\AWS C#\AwsLambdaAthena\bin\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.dll
+D:\AWS C#\AwsLambdaAthena\bin\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.pdb
+D:\AWS C#\AwsLambdaAthena\obj\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.dll
+D:\AWS C#\AwsLambdaAthena\obj\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.pdb
+D:\AWS C#\AwsLambdaAthena\obj\Release\netcoreapp3.1\linux-x64\AwsLambdaAthena.genruntimeconfig.cache

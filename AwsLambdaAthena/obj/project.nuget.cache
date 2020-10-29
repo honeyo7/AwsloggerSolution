@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CMRx7HEZsESfqlSaZjFJSEgzJT2iPYORCzRmXASEnmHinEEg3Cv/Th0h4Z3wZiBRfwOgGqOSx8IdmY7J8T1A1w==",
+  "success": true,
+  "projectFilePath": "D:\\AWS C#\\AwsLambdaAthena\\AwsLambdaAthena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prate\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\awssdk.athena\\3.5.0.33\\awssdk.athena.3.5.0.33.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\awssdk.core\\3.5.1.31\\awssdk.core.3.5.1.31.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

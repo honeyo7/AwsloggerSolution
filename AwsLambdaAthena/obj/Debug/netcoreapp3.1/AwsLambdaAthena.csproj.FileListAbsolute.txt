@@ -1,0 +1,12 @@
+D:\AWS C#\AwsLambdaAthena\bin\Debug\netcoreapp3.1\AwsLambdaAthena.deps.json
+D:\AWS C#\AwsLambdaAthena\bin\Debug\netcoreapp3.1\AwsLambdaAthena.runtimeconfig.json
+D:\AWS C#\AwsLambdaAthena\bin\Debug\netcoreapp3.1\AwsLambdaAthena.runtimeconfig.dev.json
+D:\AWS C#\AwsLambdaAthena\bin\Debug\netcoreapp3.1\AwsLambdaAthena.dll
+D:\AWS C#\AwsLambdaAthena\obj\Debug\netcoreapp3.1\AwsLambdaAthena.csprojAssemblyReference.cache
+D:\AWS C#\AwsLambdaAthena\obj\Debug\netcoreapp3.1\AwsLambdaAthena.AssemblyInfoInputs.cache
+D:\AWS C#\AwsLambdaAthena\obj\Debug\netcoreapp3.1\AwsLambdaAthena.AssemblyInfo.cs
+D:\AWS C#\AwsLambdaAthena\obj\Debug\netcoreapp3.1\AwsLambdaAthena.genruntimeconfig.cache
+D:\AWS C#\AwsLambdaAthena\bin\Debug\netcoreapp3.1\AwsLambdaAthena.pdb
+D:\AWS C#\AwsLambdaAthena\obj\Debug\netcoreapp3.1\AwsLambdaAthena.csproj.CoreCompileInputs.cache
+D:\AWS C#\AwsLambdaAthena\obj\Debug\netcoreapp3.1\AwsLambdaAthena.dll
+D:\AWS C#\AwsLambdaAthena\obj\Debug\netcoreapp3.1\AwsLambdaAthena.pdb
